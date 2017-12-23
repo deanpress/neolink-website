@@ -53,16 +53,16 @@
   border-color: #e78d06;
 }
 .btn.btn-danger {
-  background-color: #9bc9c6;
-  border-color: #9bc9c6;
+  background-color: #4b6049;
+  border-color: #4b6049;
 }
 .btn.btn-danger:hover,
 .btn.btn-danger:focus,
 .btn.btn-danger.focus,
 .btn.btn-danger:active,
 .btn.btn-danger.active {
-  background-color: #69aeaa;
-  border-color: #69aeaa;
+  background-color: #293528;
+  border-color: #293528;
 }
 .text-primary {
   color: #62a85c !important;
@@ -77,7 +77,7 @@
   color: #faaf40 !important;
 }
 .text-danger {
-  color: #9bc9c6 !important;
+  color: #4b6049 !important;
 }
 a {
   color: #62a85c;
